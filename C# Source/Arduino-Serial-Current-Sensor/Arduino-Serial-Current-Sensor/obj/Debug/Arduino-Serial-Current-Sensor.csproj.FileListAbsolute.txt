@@ -1,0 +1,10 @@
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\obj\Debug\Arduino-Serial-Current-Sensor.csprojAssemblyReference.cache
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\obj\Debug\Arduino_Serial_Current_Sensor.Properties.Resources.resources
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\obj\Debug\Arduino-Serial-Current-Sensor.csproj.GenerateResource.cache
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\obj\Debug\Arduino-Serial-Current-Sensor.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\bin\Debug\Arduino-Serial-Current-Sensor.exe.config
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\bin\Debug\Arduino-Serial-Current-Sensor.exe
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\bin\Debug\Arduino-Serial-Current-Sensor.pdb
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\obj\Debug\Arduino-Serial-Current-Sensor.exe
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\obj\Debug\Arduino-Serial-Current-Sensor.pdb
+C:\Users\Mason\source\repos\Arduino-Serial-Current-Sensor\Arduino-Serial-Current-Sensor\obj\Debug\Arduino_Serial_Current_Sensor.CurrentSensor.resources
